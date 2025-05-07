@@ -1,0 +1,28 @@
+{
+  "projectName": "ai-suite",
+  "projectOwner": "jyotirmaybanerjee",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "jyotirmaybanerjee",
+      "name": "Jyotirmay Banerjee",
+      "avatar_url": "",
+      "profile": "",
+      "contributions": [
+        "code",
+        "infra",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true,
+  "commitType": "docs"
+}
