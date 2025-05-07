@@ -3,7 +3,7 @@
 
 </br>
 
-  [![GitHub Actions Workflow Status][check-workflow-badge]][check-workflow-badge-link] [![GitHub License][github-license-badge]][github-license-badge-link] [![GitHub contributors][github-contributors-badge]][github-contributors-badge-link] [![Discord][discord-badge]][discord-badge-link] [![jyotirmaybanerjee][made-by-jyotirmaybanerjee-badge]][made-by-jyotirmaybanerjee-badge-link]
+  [![GitHub Actions Workflow Status][check-workflow-badge]][check-workflow-badge-link] [![GitHub License][github-license-badge]][github-license-badge-link] [![GitHub contributors][github-contributors-badge]][github-contributors-badge-link] [![jyotirmaybanerjee][made-by-jyotirmaybanerjee-badge]][made-by-jyotirmaybanerjee-badge-link]
 
 
 ### 🎯 Getting Started
@@ -13,7 +13,7 @@ To get started with this boilerplate, follow these steps:
 1. Clone repository:
 
 ```bash
-git clone https://github.com/<your_username>/ai-suite.git
+git clone https://github.com/jyotirmaybanerjee/ai-suite.git
 ```
 
 2. Install the dependencies:
@@ -226,12 +226,10 @@ If the required environment variables are not set, you'll get an error message:
 [check-workflow-badge]: https://img.shields.io/github/actions/workflow/status/jyotirmaybanerjee/ai-suite/check.yml?label=check
 [github-license-badge]: https://img.shields.io/github/license/jyotirmaybanerjee/ai-suite?link=https%3A%2F%2Fgithub.com%2Fjyotirmaybanerjee%2Fai-suite%2Fblob%2Fmain%2FLICENSE
 [github-contributors-badge]: https://img.shields.io/github/contributors/jyotirmaybanerjee/ai-suite?link=https%3A%2F%2Fgithub.com%2Fjyotirmaybanerjee%2Fai-suite%2Fgraphs%2Fcontributors
-[discord-badge]: https://img.shields.io/discord/1111676875782234175?color=7b8dcd&link=https%3A%2F%2Fjyotirmaybanerjee.com%2Fdiscord
 [made-by-jyotirmaybanerjee-badge]: https://img.shields.io/badge/made_by-jyotirmaybanerjee-blue?color=FF782B&link=https://jyotirmaybanerjee.com/
 
 [check-workflow-badge-link]: https://github.com/jyotirmaybanerjee/ai-suite/actions/workflows/check.yml
 [github-license-badge-link]: https://github.com/jyotirmaybanerjee/ai-suite/blob/main/LICENSE
 [github-contributors-badge-link]: https://github.com/jyotirmaybanerjee/ai-suite/graphs/contributors
-[discord-badge-link]: https://jyotirmaybanerjee.com/discord
 [made-by-jyotirmaybanerjee-badge-link]: https://jyotirmaybanerjee.com/?utm_source=nextenterprise&utm_medium=github
 
